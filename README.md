@@ -50,7 +50,7 @@ Lokendra Chouhan, Prabhat Kumar Upadhyay, Prabhat Kumar Sharma, Anas M. Salhab, 
 (2) Molecular Communication in Bounded Spherical Region with Anomalous Diffusion Phenomenon, submitted for possible publication in IEEE Transactions on Molecular Biology and Multiscale Communications Systems (Submission date: 17/09/2024).
 
   <h2>Conferences</h2>
-(1) Nadezhda Briantceva, Lokendra Chouhan, Matteo Parsani, and Mohamed-Slim Alouini, “Mobile Sub-diffusion Molecular Communication Channel ”, In Proceedings
+<p>(1) Nadezhda Briantceva, Lokendra Chouhan, Matteo Parsani, and Mohamed-Slim Alouini, “Mobile Sub-diffusion Molecular Communication Channel ”, In Proceedings
 of the 10th ACM International Conference on Nanoscale Computing and Communication (NANOCOM ’23). Association for Computing Machinery, New York,
 NY, USA, Article 152-153. https://dl.acm.org/doi/pdf/10.1145/3576781.3608743.
 
@@ -66,6 +66,20 @@ Article 28, 1–2. https://doi.org/10.1145/3558583.3558868.
 Radio Science Conference, URSI, New Delhi, India, March 2019. doi: https://www.ursi.org/proceedings/procAP19/papers2019/URSILoke.pdf,
 
 (5) Abhinav, Lokendra Chouhan, P. Sharma, “Range Expansion in Neuro-spike Synaptic Communication: Error Performance Analysis”, Bio-inspired Information and Communications Technologies. BICT 2023, Okinawa, Japan, Lecture Notes of
-the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 512. Springer.
+the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 512. Springer. </p>
+
+  <h1>Student Supervision</h1>
+
+<p>(1) Mr Naveen Saini, DTU Delhi, **Topic**: PhD thesis on Molecular Communication
+
+(2) Mr. Mahesh Nagarappu, **Topic**: PhD thesis on Localization Scehmes for Underwaer Communication
+
+(3) Mr. Arun V M, **Topic**: PhD thesis on Industial Automations using IoT for Space Center.
+
+(4) Mr Shrijit, B.tech Honors, **Topic**: Brain Image Siganl Processing.
+
+</p>
+
+
 </body>
 </html>
